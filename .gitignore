@@ -1,6 +1,6 @@
 # Packages
 node_modules
-
+platform/viewer/node_modules
 # Output
 build
 dist
