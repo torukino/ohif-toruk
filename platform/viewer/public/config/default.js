@@ -9,6 +9,7 @@ window.config = {
       client_id:
         '22850662496-luimn38v81ihns4d1dq5psl05t6t444t.apps.googleusercontent.com',
       redirect_uri: '/callback',
+      i
       response_type: 'id_token token',
       scope:
         'email profile openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-healthcare', // email profile openid
